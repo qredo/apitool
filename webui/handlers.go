@@ -1,7 +1,6 @@
 package webui
 
 import (
-	"apitool/defs"
 	"bytes"
 	"encoding/base64"
 	"encoding/json"
@@ -10,6 +9,8 @@ import (
 	"net/http"
 	"strings"
 	"time"
+
+	"github.com/qredo/apitool/defs"
 
 	"github.com/pkg/errors"
 

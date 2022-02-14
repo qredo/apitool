@@ -1,8 +1,6 @@
 package main
 
 import (
-	"apitool/defs"
-	"apitool/webui"
 	"bufio"
 	"encoding/base64"
 	"flag"
@@ -13,6 +11,9 @@ import (
 	"runtime"
 	"strings"
 	"time"
+
+	"github.com/qredo/apitool/defs"
+	"github.com/qredo/apitool/webui"
 
 	"github.com/pkg/errors"
 )

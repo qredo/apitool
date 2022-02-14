@@ -1,0 +1,33 @@
+
+GET http://{{host}}/api/v1/apikey
+Accept: application/json
+X-Token: {{token}}
+###
+
+
+
+POST http://{{host}}/api/v1/apikey
+Accept: application/json
+X-Token: {{token}}
+###
+
+#{"id":"_lJCqc-T3cnNpw","name":"","fund_id":"","wallet_id":"","created":1644334073,"expiry_date":0,"last_update":1644334073,"secret":"JDJhJDA0JGV0aGt1LnE1a0NyZUFhaHFYVnlzZnVpU0Ryd2xOVThIZTY0TkhpRzRaLjF6YS9ZSi95SExL","permissions":{"read_only":true}}
+
+PUT http://{{host}}/api/v1/apikey/BlU_aOdfecoGhw
+Accept: application/json
+X-Token: {{token}}
+Content-Type: application/json
+
+{
+  "name": "apikey1",
+  "permissions": {"read_only":  true}
+}
+###
+
+DELETE http://{{host}}/api/v1/apikey/keB5uAJoumlQbA
+Accept: application/json
+X-Token: {{token}}
+###
+
+
+

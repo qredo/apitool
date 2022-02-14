@@ -1,0 +1,4 @@
+GET http://{{host}}/qapi/v1/balance
+QREDO-API-Key: _lJCqc-T3cnNpw
+QREDO-API-Ts: 1644591813
+QREDO-API-Sig: KSsM3XNpAuiZ78QFLqY9MDyOvR1LPfsvB6u4lHvkvow

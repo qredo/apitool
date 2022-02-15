@@ -114,8 +114,7 @@ const indexHTML string = `<html>
 		<pre id="apiResponse"></pre>
 	</div
 </body>
-</html>
-`
+</html>`
 
 func GetIndex(c *gin.Context) {
 	c.Header("Content-type", "text/html")

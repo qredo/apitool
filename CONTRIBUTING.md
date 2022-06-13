@@ -17,4 +17,5 @@ If you want to read more about this workflow, it is detailed here:
 https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
 
 
+Please note we have a code of conduct, do follow it in all your interactions with the project.
 

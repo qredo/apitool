@@ -9,8 +9,8 @@ This project follows a simple "trunk-based development" workflow, in other words
 - (optional) explicitly add yourself to the list of authors - use the `.reuse/dep5` file -- note you would still retain any copyright to the code with or without this step
 - Submit a "Pull Request" to the main GitHub repository
 - Discuss it with the team, if needed
-- Experience your heart fill with joy at the mere sight of the "merged" badge
-- Celebrate, rest, restart!
+- Experience your heart fill with joy at the sight of the "merged" badge
+- Celebrate, rest, repeat!
 
 
 If you want to read more about this workflow, it is detailed here:

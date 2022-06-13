@@ -48,3 +48,8 @@ WebUI listening on http://127.0.0.1:4569
 ```
 
 and click on the link or copy&paste it in your browser
+
+# Final notes
+
+This project is released under the terms of the Apache 2.0 License - see LICENSE for details.
+The copyright owner are listed in the `.reuse/dep5` file. Feel free to send Pull Requests (see CONTRIBUTING.md for instructions)
